@@ -1,6 +1,9 @@
-# Simple Tailwind CSS Starter
+# Testimonial template with Grid
 
-This is an extremley simple setup to develop Tailwind projects. This will be used in my Tailwind From Scratch course.
+This is an simple Frontend Mentor template build with Grid for user review for the site
+
+## Deployment link
+### https://grid-testimonial-pi.vercel.app/
 
 ## Usage
 
